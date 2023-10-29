@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Todolist",
+    "slug": "Todolist",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.expodev4321.TodolistReactNative"
+    },
+    "web": {},
+    "extra": {
+      "eas": {
+        "projectId": "64dd51cf-6a78-40b1-8d53-bd72ccaf95b1"
+      }
+    }
+  }
+}
